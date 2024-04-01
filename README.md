@@ -12,6 +12,8 @@ Used endpoint:
 https://api.hypixel.net/player?key=$apiKey&name=$playerName
 ```
 
+See https://developer.hypixel.net.
+
 # Disclaimer
 This project is not affiliated with Hypixel or Mojang. All trademarks belong to their respective owners.
 
