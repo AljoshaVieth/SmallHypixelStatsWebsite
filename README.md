@@ -1,5 +1,6 @@
 # SmallHypixelStatsWebsite
 A tiny website displaying some stats of the hypixel api for a few players.
+![image](https://github.com/AljoshaVieth/SmallHypixelStatsWebsite/assets/12802765/7d26a379-3935-4c29-885d-3939582c5fea)
 
 # Api usage and caching
 This website uses caching to reduce requests to the Hypixel Api.
